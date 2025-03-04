@@ -1,0 +1,3 @@
+C:/Users/musta/CLionProjects/150122012prj1/cmake-build-debug/CMakeFiles/150122012_prj1.c.dir
+C:/Users/musta/CLionProjects/150122012prj1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/musta/CLionProjects/150122012prj1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

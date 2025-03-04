@@ -1,0 +1,4 @@
+Multiplicand: 0.7890
+Multiplier: 0.789
+Result: 0.6225210
+Execution Time: 0.00000000
