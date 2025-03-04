@@ -1,7 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
-/*This code performs multiplication of large integer and float numbers*/
+/* This code multiplies large integers and floating-point numbers.
+   It reads input from a file and writes the output to another file. */
 
 
 struct multiple {
